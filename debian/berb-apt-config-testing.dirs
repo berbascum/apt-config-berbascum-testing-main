@@ -1,0 +1,4 @@
+/usr/share/berb-apt-config/preferences.d
+/usr/share/berb-apt-config/sources.list.d
+/etc/apt/sources.list.d
+/etc/apt/preferences.d

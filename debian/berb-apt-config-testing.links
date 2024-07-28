@@ -1,0 +1,2 @@
+/usr/share/berb-apt-config/sources.list.d/berb-testing.sources /etc/apt/sources.list.d/berb-testing.sources
+/usr/share/berb-apt-config/preferences.d/10-berb-testing /etc/apt/preferences.d/10-berb-testing
