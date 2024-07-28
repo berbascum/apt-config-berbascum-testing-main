@@ -1,0 +1,6 @@
+debian/.debhelper/
+debian/debhelper-build-stamp
+debian/files
+debian/berb-apt-config-testing.substvars
+debian/berb-apt-config-testing/
+
