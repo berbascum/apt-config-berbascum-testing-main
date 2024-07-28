@@ -1,0 +1,6 @@
+Architectures: arm64,amd64,all
+Components: main
+Suites: testing
+Uris:  https://berbascum.github.io/berb-apt-git-repo
+Types: deb
+Signed-By: /etc/apt/trusted.gpg.d/berb-apt.gpg
