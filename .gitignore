@@ -3,4 +3,4 @@ debian/debhelper-build-stamp
 debian/files
 debian/berb-apt-config-testing.substvars
 debian/berb-apt-config-testing/
-
+out-berb-apt-config-testing/
