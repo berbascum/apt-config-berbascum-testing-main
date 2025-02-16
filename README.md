@@ -1,1 +1,1 @@
-# berb-apt-config-testing
+# apt-config-berbascum-testing

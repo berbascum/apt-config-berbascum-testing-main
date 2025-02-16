@@ -1,4 +1,4 @@
-berb-apt-config-testing (0.0.2+git20241229232639.c3eca6c.stable) stable; urgency=medium
+apt-config-berbascum-testing (0.0.2+git20241229232639.c3eca6c.stable) stable; urgency=medium
 
   [berbascum]
   * (c3eca6c) (preferences) pin: fix the Pin definition 

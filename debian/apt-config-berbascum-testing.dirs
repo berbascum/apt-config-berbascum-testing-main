@@ -1,0 +1,4 @@
+/usr/share/apt-config-berbascum/preferences.d
+/usr/share/apt-config-berbascum/sources.list.d
+/etc/apt/sources.list.d
+/etc/apt/preferences.d

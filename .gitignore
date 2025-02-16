@@ -1,6 +1,8 @@
 debian/.debhelper/
 debian/debhelper-build-stamp
 debian/files
-debian/berb-apt-config-testing.substvars
-debian/berb-apt-config-testing/
-out-berb-apt-config-testing/
+bdm-script-spl-build-debian-package.sh
+bdm_build-debian-package.log
+debian/apt-config-berbascum-testing.substvars
+debian/apt-config-berbascum-testing/
+out-apt-config-berbascum-testing/

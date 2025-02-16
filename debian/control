@@ -1,4 +1,4 @@
-Source: berb-apt-config-testing
+Source: apt-config-berbascum-testing
 Maintainer: berbascum <berbascum@ticv.cat>
 Section: misc
 Priority: optional
@@ -6,10 +6,10 @@ Build-Depends: debhelper (>= 10),
                debhelper-compat (= 13),
 Standards-Version: 4.5.0.3
 
-Package: berb-apt-config-testing
+Package: apt-config-berbascum-testing
 Architecture: all
 Pre-Depends: apt,
 Depends: ${misc:Depends},
          ca-certificates,
-         berb-apt-keyrings,
+         apt-keyrings-berbascum,
 Description: APT configs for Berbascum's github testing apt repo
