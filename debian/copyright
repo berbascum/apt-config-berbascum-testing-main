@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: apt-config-berbascum-testing
-Source: https://github.com/berbascum/apt-config-berbascum-testing
+Upstream-Name: apt-config-berbascum-testing-main
+Source: https://github.com/berbascum/apt-config-berbascum-testing-main
 
 Files: *
 Copyright: 2024 berbascum <berbascum@ticv.cat>

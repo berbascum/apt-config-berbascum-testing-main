@@ -1,0 +1,2 @@
+/usr/share/apt-config-berbascum/sources.list.d/berbascum-testing-main.sources /etc/apt/sources.list.d/berbascum-testing-main.sources
+/usr/share/apt-config-berbascum/preferences.d/10-berbascum-testing-main /etc/apt/preferences.d/10-berbascum-testing-main
